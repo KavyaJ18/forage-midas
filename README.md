@@ -144,8 +144,8 @@ It also improved my debugging, testing, and system design reasoning.
 **Kavya J**
 - Backend Developer (Java | Spring Boot)
 - Cloud & AI Integration Enthusiast
-- LinkedIn: *your-link*
-- Email: *your-email*
+- LinkedIn: https://www.linkedin.com/in/kavya-j-9410b0261/
+- Email: kavya18032004@gmail.com
 
 ---
 
